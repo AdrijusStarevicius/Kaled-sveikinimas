@@ -1,0 +1,36 @@
+body {
+  color: rgb(255, 255, 255);
+  background-image: url(https://wallpapers.com/images/hd/christmas-background-3840-x-2160-wallpaper-ong9ma2tpbsfeqit.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {border: 30px solid rgb(0, 0, 0);
+  border-radius: 100px;
+  box-shadow: 10px 10px 9px rgba(0, 0, 0, 0.5);
+  background-color: rgb(255, 0, 0);
+  padding: 20px;
+  margin: 60px ;
+  text-align: center;
+  font-size: 190px;
+}
+p{
+  border: 30px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  background-color: rgb(255, 0, 0);
+  padding: 2px;
+  margin: 60px ;
+  text-align: center;
+  font-size: 100px;
+
+}
+
+
